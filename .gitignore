@@ -1,0 +1,9 @@
+*.png
+*.pyc
+*.pdf
+*.html
+.~lock.*
+
+.vscode/
+notebooks/.ipynb_checkpoints/
+src/reference_simulator/ERBB_RAS_AKT_Drugs
