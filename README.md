@@ -6,8 +6,15 @@ Fabian Fröhlich's (https://github.com/FFroehlich/reference_simulator) pan-cance
 To run this software the following steps are required:
 
 * Clone this repository.
-* Clone the code for the simulator (https://github.com/FFroehlich/reference_simulator) into src/reference_simulator/.
-* Run src/reference_simulator/build_model.py to create the necessary binarys to run the simulator. This might require the installation of multiple Python packages.
+* Copy the code for the simulator (https://github.com/FFroehlich/reference_simulator) into src/reference_simulator/.
+* Install the following Python packages: 
+```
+pip install python-libsbml
+pip install amici
+pip install petab==0.0.0a16
+pip install gym
+```
+* Run src/reference_simulator/build_model.py to create the necessary binarys to run the simulator (this takes arround 1h).
 * Check if the software is running as expected by executing: python -m unittest discover /test -v
 
 A list with required dependencies is provided in /other. 
