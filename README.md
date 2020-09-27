@@ -18,3 +18,5 @@ pip install gym
 * Check if the software is running as expected by executing: python -m unittest discover /test -v
 
 A list with required dependencies is provided in /other. 
+
+The source code contained in the folder src/sampler is based on Ari Pakman's GitHub repository https://github.com/aripakman/hmc-tmg and is subject to a MIT License.
