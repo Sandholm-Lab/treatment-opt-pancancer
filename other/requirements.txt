@@ -68,7 +68,7 @@ sklearn==0.0
 sympy==1.4
 terminado==0.8.3
 testpath==0.4.4
-tornado==6.3.3
+tornado==6.4.1
 traitlets==4.3.3
 wcwidth==0.1.7
 webencodings==0.5.1
