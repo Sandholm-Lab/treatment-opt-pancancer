@@ -74,4 +74,4 @@ wcwidth==0.1.7
 webencodings==0.5.1
 widgetsnbextension==3.5.1
 wurlitzer==2.0.0
-zipp==0.6.0
+zipp==3.19.1
