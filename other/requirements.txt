@@ -36,7 +36,7 @@ nbconvert==6.5.1
 nbformat==4.4.0
 notebook==6.4.12
 numpy==1.22.0
-opencv-python==4.2.0.32
+opencv-python==4.8.1.78
 pandas==0.25.3
 pandoc==1.0.2
 pandocfilters==1.4.2
